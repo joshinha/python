@@ -1,3 +1,22 @@
+# python
+
+```
+# change this code
+mystring = "hello"
+myfloat = 10.0
+myint = 20
+
+# testing code
+if mystring == "hello":
+    print("String: %s" % mystring)
+if isinstance(myfloat, float) and myfloat == 10.0:
+    print("Float: %f" % myfloat)
+if isinstance(myint, int) and myint == 20:
+    print("Integer: %d" % myint)
+```
+
+Replit
+```
 print('"We must count the content that lays on this hellish earth if we are to succeed..."')
 
 #Note que podemos escrever absolutamente o que quisermos dentro do texto, se ele for seguido de parenteses e aspas, visto que o Python entende que esta é a função de um texto.
@@ -36,3 +55,6 @@ print('... The number of birds you own is not equal to the number of cats, but i
 print(25 + 60 * 5 % 40 * 5 >= 38 + 42 * 3 % 4)
 print('... that the number of birds you own is higher than the number of cats, of course!"')
 
+
+
+```
