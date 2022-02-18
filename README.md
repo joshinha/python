@@ -22,12 +22,12 @@ print('"We must count the content that lays on this hellish earth if we are to s
 #Note que podemos escrever absolutamente o que quisermos dentro do texto, se ele for seguido de parenteses e aspas, visto que o Python entende que esta é a função de um texto.
 
 
-print('\n\n"I shall now count the animals in my arc."')
+print('\n\n"I shall now count the animals that reside in my arc."')
 print('\nDogs =', 25 + 30 / 5)
 print('Cats =', 38 + 42 * 3 % 4 )
 print('Birds =',  25 + 60 * 5 % 40)
 
-print('\n\n"Now, I must count the grains of sand in the mountain my animals shall lay."')
+print('\n\n"Now, I must count the grains of sand in the mountain my animals shall lay in."')
 print('\nSilica =', 7000 + 5000 * 150 / 35 % 2000 * 500)
 print('Granite =', 50000 * 3000 * 35 + 260 % 35)
 print('Quartz =', 32526 + 2384 * 300 / 32 * 2900)
@@ -45,7 +45,7 @@ print('the number of cats surpasses the number of dogs in your tiny arc, my chil
 
 print('\n"If the almighty says I have more cats than dogs, then so be It!"')
 
-#Como pode-se notar, é possível questionar se uma conta matemática possui valor maior do que outra usando os sinais '<' e '>', bem como é possível questionar uma conta com sinais de igual, conforme exemplo abaixo.
+#Como pode-se notar, é possível questionar se uma conta matemática possui valor maior do que outra usando os sinais '<' e '>', bem como é possível questionar se um valor é igual ou superior ao outro, conforme exemplo abaixo.
 
 print('\n\n"Oh God... Oh God... My head aches... I cannot tell if the number of birds I own is higher or equal to the number of cats! Can you please help me with the answer for this stressful question???"')
 print('\nFor then, once again, the omnipotent answered...')
