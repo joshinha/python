@@ -1,6 +1,4 @@
 # python
-
-- Usando o livro Learn Python 3 the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed A. Shaw (z-lib.org)
 ```
 # change this code
 mystring = "hello"
@@ -15,6 +13,7 @@ if isinstance(myfloat, float) and myfloat == 10.0:
 if isinstance(myint, int) and myint == 20:
     print("Integer: %d" % myint)
 ```
+- Usando o livro Learn Python 3 the Hard Way A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code by Zed A. Shaw (z-lib.org)
 
 Replit
 ```
