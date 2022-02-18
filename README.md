@@ -1,22 +1,3 @@
-# python
-
-```
-# change this code
-mystring = "hello"
-myfloat = 10.0
-myint = 20
-
-# testing code
-if mystring == "hello":
-    print("String: %s" % mystring)
-if isinstance(myfloat, float) and myfloat == 10.0:
-    print("Float: %f" % myfloat)
-if isinstance(myint, int) and myint == 20:
-    print("Integer: %d" % myint)
-```
-
-Replit
-```
 print('"We must count the content that lays on this hellish earth if we are to succeed..."')
 
 #Note que podemos escrever absolutamente o que quisermos dentro do texto, se ele for seguido de parenteses e aspas, visto que o Python entende que esta é a função de um texto.
@@ -47,7 +28,7 @@ print('\n"If the almighty says I have more cats than dogs, then so be It!"')
 
 #Como pode-se notar, é possível questionar se uma conta matemática possui valor maior do que outra usando os sinais '<' e '>', bem como é possível questionar uma conta com sinais de igual, conforme exemplo abaixo.
 
-print('\n\n"Oh God... Oh God... My head aches... I cannot tell if the number of birds I own is higher or equal than the number of cats! Can you please help me with the answer for this magnanimous???"')
+print('\n\n"Oh God... Oh God... My head aches... I cannot tell if the number of birds I own is higher or equal to the number of cats! Can you please help me with the answer for this stressful question???"')
 print('\nFor then, once again, the omnipotent answered...')
 print(' "Of course you do not know, foolish child! But I may provide you with the answers you seek, for I am benevolent... The answer is certainly...')
 print(25 + 60 * 5 % 40 * 5 <= 38 + 42 * 3 % 4)
@@ -55,4 +36,3 @@ print('... The number of birds you own is not equal to the number of cats, but i
 print(25 + 60 * 5 % 40 * 5 >= 38 + 42 * 3 % 4)
 print('... that the number of birds you own is higher than the number of cats, of course!"')
 
-```
