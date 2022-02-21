@@ -32,9 +32,10 @@ print('\nSilica =', 7000 + 5000 * 150 / 35 % 2000 * 500)
 print('Granite =', 50000 * 3000 * 35 + 260 % 35)
 print('Quartz =', 32526 + 2384 * 300 / 32 * 2900)
 
-#Detalhe para a organização em linhas para as frases, se quiser pular linhas, basta utilizar o código \n (detalhe, quanto mais '\n' você digitar, mais linhas serão puladas).
-#É possível também efetuar cálculos normalmente, como se faria em uma calculadora comum, sendo utilizados '*' para multiplicação, '+' para adição, '-' para subtração, % para porcentagem e '/' para fracionar.
-
+'''
+Detalhe para a organização em linhas das as frases, se quiser pular linhas, basta utilizar o código \n (detalhe, quanto mais '\n' você digitar, mais linhas serão puladas).
+É possível também efetuar cálculos normalmente, como se faria em uma calculadora comum, sendo utilizados '*' para multiplicação, '+' para adição, '-' para subtração, '%' para o que se chama de 'módulo', '/' para fracionar e '**' para expoente.
+'''
 
 print('\n\n"But then, God may tell me if the number of dogs surpass the number of cats in my arc! God almighty, is 25 + 30 / 5 > 38 + 42 * 3 % 4?"')
 
